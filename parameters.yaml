@@ -1,0 +1,9 @@
+# Wireless spectrum parameters
+min_rssi: -200
+ap_ttl: 120
+station_ttl: 300
+
+# Recon and channel hopping parameters
+recon_time: 30
+hop_recon_time: 10
+min_recon_time: 5
