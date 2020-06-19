@@ -22,3 +22,7 @@ Wi-Fi spartan modules:
 - [ ] `jam`: WiFi jamming with packet flooding
 - [ ] `rogue`: Evil Twin attack
 - [ ] `crack`: dictionary attack to attempt to crack the PSK
+
+### References
+
+- Deep learning model applied to wardriving inspired by [evilsocket/pwnagotchi](https://github.com/evilsocket/pwnagotchi).
