@@ -1,7 +1,7 @@
 # Wi-Fi Spartan ⚔️
 Smart pentesting toolkit for modern WPA/WPA2 networks ⚔️📡
 
-![alt text](https://github.com/javiln8/wifi_spartan/blob/master/images/logo.png?raw=true)
+<img src="https://github.com/javiln8/wifi_spartan/blob/master/images/logo.png?raw=true" width="500">
 
 ### Requirements
 The toolkit uses `bettercap` as its backend framework for attacking networks. Can be installed with any packet manager.
