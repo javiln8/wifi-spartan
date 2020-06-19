@@ -3,7 +3,7 @@ Smart pentesting toolkit for modern WPA/WPA2 networks ⚔️📡
 
 <img src="https://github.com/javiln8/wifi_spartan/blob/master/images/logo.png?raw=true" width="500">
 
-*This application was developed for my Telecommunications Engineering Bachelor's thesis*
+*This application was developed for my Telecommunications Engineering bachelor's final thesis.*
 
 ### Requirements
 The toolkit uses `bettercap` as its backend framework for attacking networks. Can be installed with any packet manager.
